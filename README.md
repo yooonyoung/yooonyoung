@@ -3,7 +3,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Yoonyoung Kim, an aspiring back-end developer. 🌱 <br>
-I am very interested in Python, Cloud, DevOps. ✨
+I am very interested in Python, Cloud, and DevOps. ✨
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
