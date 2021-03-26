@@ -15,18 +15,18 @@ I am very interested in Python, Cloud, DevOps. ✨
   <img src="https://img.shields.io/badge/Java-DF3A01?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-	<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>&nbsp
+	<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp 
 <br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
 	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp     
 </p>
 
