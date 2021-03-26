@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient[15]&height=170&section=header&text=YunyoungKim&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=170&section=header&text=YunyoungKim&fontSize=80&animation=blink)
 ### Hi there 👋
 
 <!--
