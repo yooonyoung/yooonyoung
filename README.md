@@ -39,9 +39,9 @@ I am very interested in Python, Cloud, and DevOps. ✨
 </p>
 <br>
 
-<center>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yooonyoung&show_icons=true&theme=dracula">
-</center>
+</p>
 
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyooonyoung&count_bg=%23E378C1&title_bg=%23B0A1B2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
